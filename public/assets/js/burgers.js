@@ -1,0 +1,1 @@
+// logic to navigate functions and page

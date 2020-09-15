@@ -1,9 +1,16 @@
 const connection = require("./connection.js");
 
+// Need to include orm logic
 const orm = {
-  selectAll:
-  insertOne:
-  updateOne:
+  selectAll: function() {
+   
+  },
+  insertOne: function() {
+    
+  },
+  updateOne: function() {
+    
+  }
 };
 
 module.exports = orm;
